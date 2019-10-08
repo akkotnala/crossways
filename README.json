@@ -1,0 +1,25 @@
+{
+ "name": "hobbies",
+ "children": [
+  {
+   "name": "Sports", "group": "a", "size": 3200},
+  { "name": "Geeky", "group": "b", "size": 2700},
+    {"name": "Music", "group": "c", "size": 3500},
+   {"name": "Creation", "group": "c", "size": 4000},
+   {"name": "Reading", "group": "c", "size": 1900},
+   {"name": "Games", "group": "d", "size": 2900},
+   {"name": "Science", "group": "b", "size": 2000},
+   {"name": "Clothing","group": "e", "size": 2700},
+   {"name": "Cooking", "group": "d", "size": 3000},
+   {"name": "IT", "group": "b", "size": 3100},
+   {"name": "Travel", "group": "a", "size": 1800},
+   {"name": "Studying", "group": "e", "size": 2200},
+   {"name": "Movies", "group": "c", "size":2100},
+   {"name": "Business", "size": 2400},
+   {"name": "Acting", "group": "e", "group": "c", "size": 2600}
+
+   
+   
+  
+ ]
+}
